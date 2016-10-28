@@ -1,0 +1,9 @@
+
+"""
+Creating the vector space
+
+a)
+"""
+(defstruct vs
+  (matrix "")
+  (similarity-fn " "))
